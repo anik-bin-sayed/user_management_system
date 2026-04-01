@@ -612,15 +612,3 @@ For issues, questions, or contributions, please:
 4. Follow contribution guidelines
 
 ---
-
-## License
-
-[Specify your license here]
-
----
-
-**Project Status**: ✅ Active Development
-
-**Last Updated**: April 2026
-
-**Maintainers**: [Your Team]
